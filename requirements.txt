@@ -1,0 +1,4 @@
+plotly # for plot representation
+pandas
+Pillow # for img representation
+imageio 
